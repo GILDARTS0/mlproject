@@ -1,1 +1,1 @@
-# mlproject
+In this project, we are tracking hand's finger movement for changing master(main) volume of your device. This project is inspired by @Murtaza's Workshop and then i simplified it in my way with changes.
